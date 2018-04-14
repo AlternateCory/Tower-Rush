@@ -1,0 +1,10 @@
+spawn_amount1 = 10;
+spawn_amount2 = 3;
+spawn_amount3 = 1;
+spawn_amount4 = 1;
+spawn_count1 = 0;
+spawn_count2 = 0;
+spawn_count3 = 0;
+spawn_count4 = 0;
+spawn_rate = 1 * room_speed;
+alarm[0] = 300;
